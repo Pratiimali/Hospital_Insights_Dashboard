@@ -49,7 +49,7 @@ An interactive dashboard project analyzing hospital patient demographics, depart
 
 &nbsp;
 
-![Excel Dashboard](./Hospital_Dashboard_Preview/excel_dashboard.png)
+![Excel Dashboard](./Hospital_Dashboard_Preview/excel_dashboard.JPG)
 
 &nbsp;
 
@@ -63,7 +63,7 @@ An interactive dashboard project analyzing hospital patient demographics, depart
 
 &nbsp;
 
-![Power BI Dashboard](./Hospital_Dashboard_Preview/powerbi_dashboard.png)
+![Power BI Dashboard](./Hospital_Dashboard_Preview/powerbi_dashboard.JPG)
 
 &nbsp;
 
@@ -77,7 +77,7 @@ An interactive dashboard project analyzing hospital patient demographics, depart
 
 &nbsp;
 
-![Tableau Dashboard](./Hospital_Dashboard_Preview/tableau_dashboard.png)
+![Tableau Dashboard](./Hospital_Dashboard_Preview/tableau_dashboard.JPG)
 
 &nbsp;
 
